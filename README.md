@@ -13,3 +13,6 @@
 11. 변경후 (컨트롤 + ` )을 눌러 터미널 열기
 12. 터미널에  npm install
 13. 실행은 npm run dev 입력
+
+14. 집에서 할때 git clone '저장주소' or git pull 이후
+15. npm install 꼭 해주기
